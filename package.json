@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "file-loader": "^6.2.0",
+    "url-loader": "^4.1.1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "react-bootstrap": "^2.7.4",
+    "react-router-dom": "^6.11.1",
+    "styled-components": "^5.3.10"
+  }
+}
